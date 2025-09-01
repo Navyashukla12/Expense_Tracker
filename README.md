@@ -1,12 +1,25 @@
-# React + Vite
+📊 Expense_Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Expense_Tracker is a simple and modern web app built with React and Tailwind CSS that helps you track your daily expenses with ease. It provides an intuitive dashboard, spending charts, and quick expense entry forms — all wrapped in a clean purple-themed UI.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📌 Dashboard Overview – Track your total spending at a glance.
 
-## Expanding the ESLint configuration
+📈 Interactive Charts – Visualize your expenses by category.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📝 Add & Manage Expenses – Quickly log daily expenses.
+
+📋 Recent Expense List – See your latest transactions.
+
+🎨 Modern Purple Theme – Stylish UI powered by Tailwind CSS.
+
+🛠️ Tech Stack
+
+React – Frontend library for UI components.
+
+Tailwind CSS – Utility-first CSS framework for styling.
+
+React Hot Toast – For clean toast notifications.
+
+Vite – Fast build tool for development.
