@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: custom purple theme overrides */
+:root {
+  --expense-purple: #7c3aed;
+}
